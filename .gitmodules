@@ -94,4 +94,3 @@
 [submodule "plugins/sortium"]
 	path = plugins/sortium
 	url = https://github.com/SalvadorCorreia/Sortium
-	branch = prod
